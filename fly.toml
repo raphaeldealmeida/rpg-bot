@@ -4,7 +4,7 @@
 #
 
 app = 'rpg-bot'
-primary_region = 'gig'
+primary_region = 'aid'
 
 [build]
 
